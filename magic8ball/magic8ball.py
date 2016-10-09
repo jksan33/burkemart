@@ -16,6 +16,8 @@ question = input("What is your yes or no question?    ")
 #Easter Egg (super secret)
 if question == "password":
     print("Happy Easter!")
+else:
+    print(" ")
     
 if num == 0:
     print("Yes, and you will be happy!")
