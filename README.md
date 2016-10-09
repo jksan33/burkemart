@@ -1,2 +1,2 @@
 # magic8
-Just a place for some random projects
+Just a repository for some random Python projects
