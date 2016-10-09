@@ -14,7 +14,7 @@ num = randint(0,9)
 question = input("What is your yes or no question?    ")
 
 #Easter Egg (super secret)
-if question = "password":
+if question == "password":
     print("Happy Easter!")
     
 if num == 0:
