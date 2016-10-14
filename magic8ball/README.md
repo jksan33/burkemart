@@ -1,4 +1,4 @@
-# A Magic 8 (or 10 [or more]) Ball
+# A Magic 8 (or 10 [or more!]) Ball
 ## Please check out the [responses](https://github.com/WyldPhyr/burkemart/blob/master/magic8ball/responses.md) page!
 ### A random answer generator in Python
 #### TODO:
