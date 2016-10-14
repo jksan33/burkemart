@@ -1,5 +1,5 @@
 # Pig Latin Translators
 ### Just a Python pig latin translator
-#### TODO
+#### TODO:
 -Combine programs to single translator  
 -Expand from single word translation  
