@@ -9,7 +9,7 @@
 -"Maybe so."  
 -"Perhaps."  
 -"Without a doubt."  
--"Only on Sundays."
--"Ask again later."
--"42."
+-"Only on Sundays."  
+-"Ask again later."  
+-"42."  
 ### Proposed Responses
