@@ -5,9 +5,11 @@
 
 from random import randint
 
-num = randint(0,9)
+def rand():
+    num = randint(0, 9)
+    run(num)
 
-def run():
+def run(num):
 #   This is to prevent the rest of the program from running until the user asks
 #   a question. Plus there's a super secret Easter egg!
     question = raw_input("What is your yes or no question? ")
@@ -41,17 +43,11 @@ def run():
     else:
 #       Yay for error messages!
         print("Sorry, the future is cloudy today. Please restart and try again.")
-        rep()
 
-def rep():
-    repeat = raw_input("Would you like to ask another question? ")
-    if repeat in ["Yes", "yes", "Y", "y"]:
-        run()
-    elif repeat in ["No", "no", "N", "n"]:
-        print("Okay, Goodbye.")
+while True:
+    run(num)
+    rep = raw_input("Would you like to ask another question? ")
+    if rep in ["Yes", "yes", "y", "Y"]:
+        print("Okay.")
     else:
-        print("I'm sorry, I didn't understand that. Please answer a yes or a no.")
-        rep()
-#       Put a limit on how many times the function runs after an invalid answer?
-
-run()
+        break
