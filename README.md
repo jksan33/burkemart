@@ -1,3 +1,3 @@
 # BurkeMart
-Just a repository for some random Python projects
+Just a repository for some random Python projects  
 *It's a gang*
