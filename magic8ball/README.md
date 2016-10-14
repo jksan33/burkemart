@@ -2,4 +2,4 @@
 ### A random answer generator in Python
 #### TODO:
 -Reset random number between each instance  
--Add answers
+-Add Responses
