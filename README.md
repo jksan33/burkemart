@@ -1,2 +1,3 @@
-# magic8
+# BurkeMart
 Just a repository for some random Python projects
+*It's a gang*
