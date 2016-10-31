@@ -1,2 +1,2 @@
 # Text Reversal Engine
-Python program that reverses the text entered into it
+Python script that reverses the text entered into it
